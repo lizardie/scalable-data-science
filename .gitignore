@@ -384,4 +384,7 @@ project/plugins/project/
 ### Scala ###
 *.class
 
+### MacOS ###
+.DS_Store
+ 
 # End of https://www.gitignore.io/api/sbt,scala,latex,eclipse,intellij+all
